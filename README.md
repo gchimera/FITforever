@@ -1,4 +1,4 @@
-<a href="https://shop.foreverliving.com/retail/entry/Shop.do?store=IRL&distribID=001002627908&language=en"> <img border="0" alt="" src="https://img.shields.io/badge/customer-Forever%20living-yellowgreen"> </a> <img src="https://img.shields.io/badge/IOS-<%2010.0-orange" > <img src="https://img.shields.io/badge/-Obj%20C-blue" > 
+<a href="https://shop.foreverliving.com/retail/entry/Shop.do?store=IRL&distribID=001002627908&language=en"> <img border="0" alt="" src="https://img.shields.io/badge/customer-Forever%20living-yellowgreen"> </a> <a href="https://apps.apple.com/us/app/forever-f-i-t/id1216464837"> <img border="0" alt="" src="https://img.shields.io/badge/Applestore-link-red"> </a> <img src="https://img.shields.io/badge/IOS-<%2010.0-orange" > <img src="https://img.shields.io/badge/-Obj%20C-blue" > 
 
 <br>
 
